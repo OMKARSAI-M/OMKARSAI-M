@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm MUNJULURI_OMKAR_SAI</h1>
+<h1 align="center">Hi 👋, I'm MUNJULURI OMKAR SAI</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **Python,React etc.,**
 
 - 💬 Ask me about **C,PYTHON,HTML,CSS,BOOTSTRAP,JS**
 
-- 📫 How to reach me **momkar1046@gmail.com**
+- 📫 How to reach me **munjuluriomkarsai@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
