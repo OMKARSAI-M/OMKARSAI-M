@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MUNJULURI OMKAR SAI</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">A Data Engineer</h3>
 
-- 🌱 I’m currently learning **Python,React etc.,**
+- 🌱 I’m currently pursuing **Master of Science in Information System**
 
-- 💬 Ask me about **C,PYTHON,HTML,CSS,BOOTSTRAP,JS**
+- 💬 Ask me about **Python, SQL, Java, PowerBI, Hadoop, AWS(S3, EBS, DynamoDB, Redshift, Cloudwatch, AWS Glue, AWS Kenesis) **
 
 - 📫 How to reach me **munjuluriomkarsai@gmail.com**
 
