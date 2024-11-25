@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MUNJULURI OMKAR SAI</h1>
 <h3 align="center">A Data Engineer</h3>
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
+<a >
     <img src="https://komarev.com/ghpvc/?username=OMKARSAI-M&style=for-the-badge">
 </a>
 
