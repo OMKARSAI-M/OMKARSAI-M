@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MUNJULURI OMKAR SAI</h1>
 <h3 align="center">A Data Engineer</h3>
 <a >
-    <img src="https://komarev.com/ghpvc/?username=OMKARSAI-M&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=OMKARSAI-M&style=for-the-badge&color=brightgreen">
 </a>
 
 - 🌱 I’m currently pursuing **Master of Science in Information System**
